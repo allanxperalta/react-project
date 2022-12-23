@@ -1,0 +1,39 @@
+.card {
+    border: 1px solid #000;
+    border-radius: 5px;
+    width: 60vw;
+    height: 100px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.card-id {
+    border-bottom: 1px solid #000;
+    text-align: right;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-right: 5px;
+    background-color: rgb(33, 103, 174);
+    color: whitesmoke;
+}
+
+.card-img  {
+    padding: 10px;
+}
+
+.card-avatar {
+    border-radius: 50%;
+    height: 50px;
+}
+
+.card-body {
+    display: flex;
+}
+
+.card-details {
+    padding: 15px;
+}
+
+.name {
+    font-weight: 700;
+}
